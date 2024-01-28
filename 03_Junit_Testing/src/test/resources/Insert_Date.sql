@@ -1,0 +1,1 @@
+INSERT INTO `product` (`id`, `name`, `price`) VALUES ('1', 'Iphone', '56666'),('2', 'Ipad', '80000'),('3', 'IMac', '1000000');
