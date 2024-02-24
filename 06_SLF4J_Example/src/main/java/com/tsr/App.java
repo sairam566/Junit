@@ -9,7 +9,7 @@ public class App
 	
     public static void main( String[] args )
     {
-    	LOGGER.trace("At TRACE Level-1");
+    	LOGGER.trace("At TRACE Level");
     	LOGGER.debug("At DEBUG Level");
     	LOGGER.info("At INFO Level");
     	LOGGER.warn("At WARN Level");
